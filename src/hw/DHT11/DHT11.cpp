@@ -110,3 +110,5 @@ DHT_Data DHT11::readData()
 
     return dhtData;
 }
+
+
